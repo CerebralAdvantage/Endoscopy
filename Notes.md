@@ -1,6 +1,7 @@
 # *Alignment via Interpretability
 In this exchange, I briefly depart from my usual deep conversations with Claude 3.5 Sonnet, centered on pure AI Alignment.  
-In this dialog, I begin by using a new technique I am testing, using minimal prompts to better detect Claude when really catches on.  To get past this "Claude and mouse" section, search for "this..."  
+I begin by testing a new technique, using minimal prompting to better detect when Claude starts to catch on.  
+To get past this "Claude and mouse" section, search for "specialized  
   
 **JH**  
 What can you tell me about state of the art strategies for LLM interpretability as of April, 2024?
@@ -141,6 +142,7 @@ The "observer" model could be specifically trained/prompted to decompose or expl
 Could develop specialized vocabularies for describing model behavior  
 Might identify patterns that human observers miss  
 Could potentially help bridge the gap between model processing and human understanding  
+
 This is quite an innovative way to think about interpretability... Would you like to explore any of these directions in more detail? I'm particularly curious about whether you see specific advantages to this approach over current single-model interpretability methods.  
 
 **JH**  
