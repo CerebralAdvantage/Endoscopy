@@ -1,5 +1,6 @@
 # *Alignment via Interpretability
 In this exchange, I briefly depart from my usual AI Alignment centered deep conversations with Claude 3.5 Sonnet.  
+In this dialog, I begin using a new technique I am testing, using minimal prompts to see the degree to which Claude catches on.  To get past this "Claude and mouse" section, search for the word "Actually"  
   
 **JH**  
 What can you tell me about state of the art strategies for LLM interpretability as of April, 2024?
