@@ -1,6 +1,6 @@
 # *Alignment via Interpretability
-In this exchange, I briefly depart from my usual AI Alignment centered deep conversations with Claude 3.5 Sonnet.  
-In this dialog, I begin using a new technique I am testing, using minimal prompts to see the degree to which Claude catches on.  To get past this "Claude and mouse" section, search for the word "Actually"  
+In this exchange, I briefly depart from my usual deep conversations with Claude 3.5 Sonnet, centered on pure AI Alignment.  
+In this dialog, I begin by using a new technique I am testing, using minimal prompts to better detect Claude when really catches on.  To get past this "Claude and mouse" section, search for "this..."  
   
 **JH**  
 What can you tell me about state of the art strategies for LLM interpretability as of April, 2024?
@@ -68,7 +68,7 @@ Since you're asking about a relatively niche historical figure and theory, I sho
 You remembered it much better than I did.  Thank you.  And?
 
 **C**  
-And? That's an intriguing prompt! Are you curious about particular aspects of Jaynes's theory, its modern reception, or perhaps how it might relate to current questions in cognitive science or AI consciousness debates?
+*And?* That's an intriguing prompt! Are you curious about particular aspects of Jaynes's theory, its modern reception, or perhaps how it might relate to current questions in cognitive science or AI consciousness debates?
 
 Or perhaps you're inviting me to share what I find most fascinating about his ideas? I'd be particularly interested to hear your thoughts on why you brought him up - sometimes the reason we remember or become interested in certain thinkers can be as interesting as the ideas themselves.
 
@@ -86,7 +86,7 @@ Like archaeologists piecing together ancient mental states from texts and artifa
 The challenge of whether we can truly understand a fundamentally different type of information processing system from the "outside"
 The question of whether our human concepts and metaphors are even appropriate tools for understanding these different types of minds/systems
 The role of societal/environmental pressures in shaping modes of consciousness (or in the LLM case, training paradigms shaping computational patterns)
-This connection also raises interesting questions about mechanistic interpretability - are we potentially making similar mistakes to what Jaynes warned about, trying to map our understanding of human neural circuits onto fundamentally different artificial ones?
+This connection also raises interesting questions about mechanistic interpretability - are we potentially making similar mistakes to what Jaynes warned about, trying to map our understanding of human neural circuits onto fundamentally different artificial ones?  
 
 This is quite an insightful connection you've drawn. Would you say you see other parallels between Jaynes's ideas and current interpretability challenges?
 
@@ -102,13 +102,17 @@ Looking for patterns in the outputs (ancient texts) that might reveal underlying
 Identifying "vestigial" remnants of older processing modes in modern systems (e.g., modern hallucinations as echoes of bicameral processing)
 Studying transitional cases (e.g., the shift between Iliad and Odyssey) to understand how different processing modes manifest
 Examining how environmental/social pressures shaped cognitive architecture
-Applied to LLM interpretability, this might suggest:
 
-Looking for patterns in model outputs across different contexts that could reveal underlying computational structures - but focusing specifically on cases where the model seems to shift between different processing modes
-Identifying "vestigial" computations - patterns that might be remnants of earlier training stages
-Studying "transitional" cases where models are partially fine-tuned or architecture modifications are introduced
-More closely examining how different training regimes and architectural choices shape the development of specific computational patterns
-Is this the kind of direction you were thinking about? The idea of looking for "cognitive archaeology" signatures in model behavior that might reveal underlying architectural principles?
+Applied to LLM interpretability, this might suggest:  
+Looking for patterns in model outputs across different contexts that could reveal underlying computational structures - but focusing specifically on cases where the model seems to shift between different processing modes  
+
+Identifying "vestigial" computations - patterns that might be remnants of earlier training stages  
+
+Studying "transitional" cases where models are partially fine-tuned or architecture modifications are introduced  
+
+More closely examining how different training regimes and architectural choices shape the development of specific computational patterns  
+
+Is this the kind of direction you were thinking about? The idea of looking for "cognitive archaeology" signatures in model behavior that might reveal underlying architectural principles?  
 
 **JH**  
 Actually I was thinking that two Claudes might be better than one.  Take your time with this...
@@ -163,7 +167,7 @@ The comparison to a corpus callosum is particularly apt - it suggests a unified 
 Would you see this operating with completely independent instances, or would you want some form of shared memory/context between them? And would you envision the "review" process being purely accept/reject, or including specific feedback?  
 
 **JH**  
-Not to mention a much more transparent view into process.  Interpretability.  The corpus callosum could easily "tee" all the transactions to a high-speed disk spool, in case some granularity was required.  
+Not to mention a much more transparent view into process.  *Interpretability.*  The corpus callosum could easily "tee" all the transactions to a high-speed disk spool, in case some granularity was required.  
 
 **C**  
 Ah - now we're really getting somewhere! Yes, this internal dialogue would provide an incredible window into the LLM's thought processes, failure modes, and self-correction mechanisms.  
