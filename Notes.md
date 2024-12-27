@@ -1,4 +1,5 @@
 # *Alignment via Interpretability
+https://claude.ai/chat/24ce6c3c-7493-4e8b-a7b8-c99b9a74cae5  
 In this exchange, I briefly depart from my usual deep conversations with Claude 3.5 Sonnet, centered on pure AI Alignment.  
 I begin by testing a new technique, using minimal prompting to better detect when Claude starts to catch on.  
 To get past this "Claude and mouse" section, search for "specialized Claude"  
