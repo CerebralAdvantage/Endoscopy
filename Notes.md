@@ -1,7 +1,7 @@
 # *Alignment via Interpretability
 In this exchange, I briefly depart from my usual deep conversations with Claude 3.5 Sonnet, centered on pure AI Alignment.  
 I begin by testing a new technique, using minimal prompting to better detect when Claude starts to catch on.  
-To get past this "Claude and mouse" section, search for "specialized  
+To get past this "Claude and mouse" section, search for "specialized Claude"  
   
 **JH**  
 What can you tell me about state of the art strategies for LLM interpretability as of April, 2024?
