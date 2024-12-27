@@ -1,10 +1,13 @@
-**JH**
+# *Alignment via Interpretability
+In this exchange, I briefly depart from my usual AI Alignment centered deep conversations with Claude 3.5 Sonnet.  
+  
+**JH**  
 What can you tell me about state of the art strategies for LLM interpretability as of April, 2024?
 
-**C**
+**C**  
 As of April 2024, LLM interpretability research had several key focus areas and emerging strategies. Here are some of the main developments:
 
-Mechanistic Interpretability:
+**Mechanistic Interpretability:**
 
 The field continued to build on approaches like activation patching and causal tracing to understand how information flows through transformer networks
 
@@ -12,7 +15,7 @@ Researchers made progress in identifying and characterizing specific circuits an
 
 There was growing work on understanding attention head specialization and how different heads contribute to model behavior
 
-Feature Attribution and Visualization:
+**Feature Attribution and Visualization:**
 
 Advanced techniques for visualizing and analyzing attention patterns across layers
 
@@ -20,7 +23,7 @@ Methods for identifying which neurons and attention heads are most responsible f
 
 Tools for tracking how different components of the input influence the final output
 
-Behavioral Analysis:
+**Behavioral Analysis:**
 
 More sophisticated approaches to probing model knowledge and capabilities
 
@@ -28,7 +31,7 @@ Techniques for identifying and characterizing emergent abilities
 
 Methods for analyzing how models combine and transform learned information
 
-Scalable Interpretability:
+**Scalable Interpretability:**
 
 Growing focus on developing interpretability techniques that can scale to larger models
 
@@ -36,7 +39,7 @@ Work on automated discovery of interpretable features and circuits
 
 Tools for efficiently analyzing specific capabilities across model scales
 
-Counterfactual Analysis:
+**Counterfactual Analysis:**
 
 Methods for understanding how models would behave under different conditions
 
@@ -46,10 +49,10 @@ Approaches for identifying causal relationships in model behavior
 
 Since this field moves quickly, I encourage you to check recent publications and conferences for the latest developments after my knowledge cutoff date.
 
-JH
+**JH**  
 Does the name Julian Jaynes ring a bell?
 
-C
+**C**  
 Yes, Julian Jaynes was a psychologist and author best known for his 1976 book "The Origin of Consciousness in the Breakdown of the Bicameral Mind." He proposed a fascinating and controversial theory about the historical development of human consciousness.
 
 His core thesis was that before around 1000 BCE, humans did not possess the kind of subjective self-awareness and introspective consciousness that we take for granted today. Instead, he argued, they experienced a "bicameral" (two-chambered) mind where one part of the brain would generate thoughts and commands that the other part would experience as auditory hallucinations - essentially voices of gods or ancestors providing guidance.
